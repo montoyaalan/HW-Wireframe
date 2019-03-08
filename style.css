@@ -1,5 +1,41 @@
 body  {
-    background-color: gray;
+    background: #777;
+    background-color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+
+
 }
 
+header {
+    background: #ebebeb;
+    width: 495px;
+    text-align: center;
+}
 
+nav {
+    background: #ebebeb;
+    width: 495px;
+}
+
+section {
+    background: #ebebeb;
+    width: 495px;
+}
+
+aside {
+    background: #ebebeb;
+    width: 495px;
+}
+
+footer {
+    background: #ebebeb;
+    width: 495px;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    width: 495px;
+}
