@@ -38,8 +38,25 @@ article {
     color: #ebebeb;
     background: #777;
     width: 495px;
+    text-align: center;
 }
 
 h1 {
-    color: 
+    color: #777;
+    background: #ebebeb;
+}
+
+h2 {
+    color: #777;
+    background: #ebebeb;
+}
+
+h3 {
+    color: #777;
+    background: #ebebeb;
+}
+
+p {
+    color: #777;
+    background: #ebebeb;
 }
