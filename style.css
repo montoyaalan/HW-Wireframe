@@ -4,33 +4,32 @@ body  {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     width: 960px;
+    margin: 15%;
 }
 
 header {
     background: #ebebeb;
-    width: 495px;
     text-align: center;
 }
 
 nav {
     background: #ebebeb;
-    width: 495px;
     text-align: center;
+    float: center;
 }
 
 section {
     background: #ebebeb;
     width: 495px;
     text-align: center;
-    margin: 0;
-
 }
 
 aside {
     background: #ebebeb;
-    width: 495px;
     text-align: center;
-    margin: 0;
+    float: right;
+    padding-left: 0px;
+    display: inline;
 }
 
 article {
@@ -62,8 +61,5 @@ p {
 
 footer {
     background: #ebebeb;
-    width: 495px;
-    height: 100px;
     text-align: center;
-    padding: 10px;
 }
