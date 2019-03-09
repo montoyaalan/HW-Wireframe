@@ -21,7 +21,24 @@ section {
     background: #ebebeb;
     width: 495px;
     text-align: center;
+    border: 1px solid black;
+    margin-top: 30px;
 }
+
+
+article {
+    color: #ebebeb;
+    background: #777;
+    width: 455px;
+    text-align: center;
+    border: 1px solid black;
+    padding-left:0px;
+    padding-right:0px;
+    margin-left: 18px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+
 
 aside {
     background: #ebebeb;
@@ -29,14 +46,7 @@ aside {
     float: right;
     padding-left: 0px;
     margin-top: 120px;
-}
-
-
-article {
-    color: #ebebeb;
-    background: #777;
-    width: 495px;
-    text-align: center;
+    border: 1px solid black;
 }
 
 h1 {
@@ -64,4 +74,3 @@ footer {
     background: #ebebeb;
     text-align: center;
 }
-
