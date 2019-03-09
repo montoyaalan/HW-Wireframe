@@ -15,7 +15,6 @@ header {
 nav {
     background: #ebebeb;
     text-align: center;
-    float: center;
 }
 
 section {
@@ -29,7 +28,6 @@ aside {
     text-align: center;
     float: right;
     padding-left: 0px;
-    display: inline;
 }
 
 article {
@@ -42,6 +40,7 @@ article {
 h1 {
     color: #777;
     background: #ebebeb;
+    text-align: center;
 }
 
 h2 {
